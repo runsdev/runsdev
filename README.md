@@ -1,17 +1,17 @@
 # Hi there, I'm runsdev 👋
 
-## 🚀 About Me
-I'm a passionate developer who loves building innovative solutions. Whether it's web development, open-source contributions, or exploring new technologies, I thrive on creating impactful software.
+## About Me
+I'm a passionate (backend-preferred) developer who loves building innovative solutions. Whether it's web development, open-source contributions, or exploring new technologies, I thrive on creating impactful software.
 
 ## 🛠️ Technologies & Tools
-- **Languages:** JavaScript, Python, TypeScript, Solidity
-- **Frameworks:** React, Node.js, Express, Next.js
+- **Languages:** Python, TypeScript, JavaScript, Solidity
+- **Frameworks:** React, Node.js, Express, Next.js, Vite.js
 - **Tools & Platforms:** Git, Docker, GitHub Actions
 - **Databases:** PostgreSQL, MongoDB
 
-## 🌱 Currently Learning
-- AI and Machine Learning
-- Cloud-native development with Azure and GCP
+## 🌱 Currently Interested in
+- Webapp development
+- Cloud-native development
 - Blockchain and Web3 technologies
 
 ## 👨‍💻 Open Source Contributions
